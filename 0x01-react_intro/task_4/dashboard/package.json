@@ -2,7 +2,7 @@
   "name": "dashboard",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://khalilelamraoui.github.io/alx-react",
+  "homepage": "https://MounimNadir.github.io/alx-react",
   "dependencies": {
     "@cfaester/enzyme-adapter-react-18": "^0.8.0",
     "@testing-library/jest-dom": "^5.17.0",
